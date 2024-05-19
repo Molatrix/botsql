@@ -1,0 +1,11 @@
+Elija alguna de estas opciones:
+(Solo deberá escribir el número para ir a la opción deseada)
+
+Opcion 1 - Catálogo
+Opcion 2 - Cita Previa
+Opcion 3 - Preguntas y Consultas
+Opción 4 - Categorías
+Opción 5 - FAQ
+Opción 6 - Solicita Agente en Vivo
+
+Opcion 0 - Salir
