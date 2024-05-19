@@ -1,0 +1,930 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A461D35CDE185CCFA1A',
+    participant: undefined
+  },
+  messageTimestamp: 1716065598,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_561fb81c-79df-4817-9c07-15d21ad11356',
+  keyword: 'key_cbfe86a2-b433-4f3f-b997-78a1a96f9e0f',
+  answer: 'Bienvenido, soy el Asistente Virtual de RJ SOLUCIONES',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 300,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '017ac615bedbd01e54e7539dc93b3842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB89A8351D6E17B23D6',
+    participant: undefined
+  },
+  messageTimestamp: 1716065639,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Inicio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Inicio',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c9a57a49-c087-4eb7-a468-05d756bf9456',
+  keyword: 'key_e968d62d-b92d-41df-b1c0-05e0cf724c29',
+  answer: 'Elija alguna de estas opciones:\n' +
+    '(Solo deberá escribir el número para ir a la opción deseada)\n' +
+    '\n' +
+    'Opcion 1 - Catálogo\n' +
+    'Opcion 2 - Cita Previa\n' +
+    'Opcion 3 - Preguntas y Consultas\n' +
+    '\n' +
+    'Opcion 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '59aee218017f4e73b23b182cc495fc5b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3ADC077F87AF82CBBE47',
+    participant: undefined
+  },
+  messageTimestamp: 1716065642,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '34669231631'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB28BB34420A69B02F2',
+    participant: undefined
+  },
+  messageTimestamp: 1716065646,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Captura',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Captura',
+  from: '34669231631'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1E23B55DEA4AF6C93F',
+    participant: undefined
+  },
+  messageTimestamp: 1716065657,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_561fb81c-79df-4817-9c07-15d21ad11356',
+  keyword: 'key_cbfe86a2-b433-4f3f-b997-78a1a96f9e0f',
+  answer: 'Bienvenido, soy el Asistente Virtual de RJ SOLUCIONES',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 300,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '017ac615bedbd01e54e7539dc93b3842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACAD090D411D24E5CA0',
+    participant: undefined
+  },
+  messageTimestamp: 1716065661,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Inicio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Inicio',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c9a57a49-c087-4eb7-a468-05d756bf9456',
+  keyword: 'key_e968d62d-b92d-41df-b1c0-05e0cf724c29',
+  answer: 'Elija alguna de estas opciones:\n' +
+    '(Solo deberá escribir el número para ir a la opción deseada)\n' +
+    '\n' +
+    'Opcion 1 - Catálogo\n' +
+    'Opcion 2 - Cita Previa\n' +
+    'Opcion 3 - Preguntas y Consultas\n' +
+    '\n' +
+    'Opcion 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '59aee218017f4e73b23b182cc495fc5b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFF9AC60F632EB5D4C6',
+    participant: undefined
+  },
+  messageTimestamp: 1716065664,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '34669231631'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A883DD7F7BD5E01674F',
+    participant: undefined
+  },
+  messageTimestamp: 1716065674,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Tienes algún producto que se llame captura',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tienes algún producto que se llame captura',
+  from: '34669231631'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9AC8B31B1633CE4824',
+    participant: undefined
+  },
+  messageTimestamp: 1716065684,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'En la',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'En la',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_561fb81c-79df-4817-9c07-15d21ad11356',
+  keyword: 'key_cbfe86a2-b433-4f3f-b997-78a1a96f9e0f',
+  answer: 'Bienvenido, soy el Asistente Virtual de RJ SOLUCIONES',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 300,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '017ac615bedbd01e54e7539dc93b3842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A59C5FE072612C71CA0',
+    participant: undefined
+  },
+  messageTimestamp: 1716065687,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Salir',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Salir',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_561fb81c-79df-4817-9c07-15d21ad11356',
+  keyword: 'key_cbfe86a2-b433-4f3f-b997-78a1a96f9e0f',
+  answer: 'Bienvenido, soy el Asistente Virtual de RJ SOLUCIONES',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 300,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '017ac615bedbd01e54e7539dc93b3842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A43E917C9E3819E9E6F',
+    participant: undefined
+  },
+  messageTimestamp: 1716065693,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Inicio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Inicio',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c9a57a49-c087-4eb7-a468-05d756bf9456',
+  keyword: 'key_e968d62d-b92d-41df-b1c0-05e0cf724c29',
+  answer: 'Elija alguna de estas opciones:\n' +
+    '(Solo deberá escribir el número para ir a la opción deseada)\n' +
+    '\n' +
+    'Opcion 1 - Catálogo\n' +
+    'Opcion 2 - Cita Previa\n' +
+    'Opcion 3 - Preguntas y Consultas\n' +
+    '\n' +
+    'Opcion 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '59aee218017f4e73b23b182cc495fc5b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3DD664081D0302EA2B',
+    participant: undefined
+  },
+  messageTimestamp: 1716065698,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '34669231631'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE5835C72CA356E3523',
+    participant: undefined
+  },
+  messageTimestamp: 1716065709,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quiere ver el producto captura de la carpeta media',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiere ver el producto captura de la carpeta media',
+  from: '34669231631'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE9532926D4B886C603',
+    participant: undefined
+  },
+  messageTimestamp: 1716065718,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Salir',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Salir',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_561fb81c-79df-4817-9c07-15d21ad11356',
+  keyword: 'key_cbfe86a2-b433-4f3f-b997-78a1a96f9e0f',
+  answer: 'Bienvenido, soy el Asistente Virtual de RJ SOLUCIONES',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 300,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '017ac615bedbd01e54e7539dc93b3842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA3DA48C0BE86C6A61D',
+    participant: undefined
+  },
+  messageTimestamp: 1716066491,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '34669231631'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE34849952B611A359B',
+    participant: undefined
+  },
+  messageTimestamp: 1716066496,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_561fb81c-79df-4817-9c07-15d21ad11356',
+  keyword: 'key_cbfe86a2-b433-4f3f-b997-78a1a96f9e0f',
+  answer: 'Bienvenido, soy el Asistente Virtual de RJ SOLUCIONES',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 300,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '017ac615bedbd01e54e7539dc93b3842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A043C015C088DD9EC87',
+    participant: undefined
+  },
+  messageTimestamp: 1716066720,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Inicio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Inicio',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c9a57a49-c087-4eb7-a468-05d756bf9456',
+  keyword: 'key_e968d62d-b92d-41df-b1c0-05e0cf724c29',
+  answer: 'Elija alguna de estas opciones:\n' +
+    '(Solo deberá escribir el número para ir a la opción deseada)\n' +
+    '\n' +
+    'Opcion 1 - Catálogo\n' +
+    'Opcion 2 - Cita Previa\n' +
+    'Opcion 3 - Preguntas y Consultas\n' +
+    '\n' +
+    'Opcion 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '59aee218017f4e73b23b182cc495fc5b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A6483F4AD4AF73B6191',
+    participant: undefined
+  },
+  messageTimestamp: 1716066724,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '34669231631'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF8A1E4FA466AC21D27',
+    participant: undefined
+  },
+  messageTimestamp: 1716067105,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_561fb81c-79df-4817-9c07-15d21ad11356',
+  keyword: 'key_cbfe86a2-b433-4f3f-b997-78a1a96f9e0f',
+  answer: 'Bienvenido, soy el Asistente Virtual de RJ SOLUCIONES',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 300,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '017ac615bedbd01e54e7539dc93b3842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A348931DD3F06F8EB7D',
+    participant: undefined
+  },
+  messageTimestamp: 1716067114,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Casas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Casas',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_561fb81c-79df-4817-9c07-15d21ad11356',
+  keyword: 'key_cbfe86a2-b433-4f3f-b997-78a1a96f9e0f',
+  answer: 'Bienvenido, soy el Asistente Virtual de RJ SOLUCIONES',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 300,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '017ac615bedbd01e54e7539dc93b3842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3AAEEBDAEA602ED613DD',
+    participant: undefined
+  },
+  messageTimestamp: 1716067122,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Inicio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Inicio',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c9a57a49-c087-4eb7-a468-05d756bf9456',
+  keyword: 'key_e968d62d-b92d-41df-b1c0-05e0cf724c29',
+  answer: 'Elija alguna de estas opciones:\n' +
+    '(Solo deberá escribir el número para ir a la opción deseada)\n' +
+    '\n' +
+    'Opcion 1 - Catálogo\n' +
+    'Opcion 2 - Cita Previa\n' +
+    'Opcion 3 - Preguntas y Consultas\n' +
+    '\n' +
+    'Opcion 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '59aee218017f4e73b23b182cc495fc5b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3AACF8C745F5D7F3D9B9',
+    participant: undefined
+  },
+  messageTimestamp: 1716067130,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '34669231631'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB80CED20EC5633026D',
+    participant: undefined
+  },
+  messageTimestamp: 1716067138,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Precios',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Precios',
+  from: '34669231631'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3167C76FEF4485299F',
+    participant: undefined
+  },
+  messageTimestamp: 1716067524,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '34669231631'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8342D60848277E1043',
+    participant: undefined
+  },
+  messageTimestamp: 1716067536,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '34669231631'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A11B8CC858F6BC0BC5D',
+    participant: undefined
+  },
+  messageTimestamp: 1716067547,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Inicio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Inicio',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c9a57a49-c087-4eb7-a468-05d756bf9456',
+  keyword: 'key_e968d62d-b92d-41df-b1c0-05e0cf724c29',
+  answer: 'Elija alguna de estas opciones:\n' +
+    '(Solo deberá escribir el número para ir a la opción deseada)\n' +
+    '\n' +
+    'Opcion 1 - Catálogo\n' +
+    'Opcion 2 - Cita Previa\n' +
+    'Opcion 3 - Preguntas y Consultas\n' +
+    '\n' +
+    'Opcion 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '59aee218017f4e73b23b182cc495fc5b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A212B9E7AD84CD376E7',
+    participant: undefined
+  },
+  messageTimestamp: 1716067551,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '34669231631'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A764C17BF4380F9047B',
+    participant: undefined
+  },
+  messageTimestamp: 1716067556,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Redes Omada',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Redes Omada',
+  from: '34669231631'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9258BC8F05680E016E',
+    participant: undefined
+  },
+  messageTimestamp: 1716067573,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Instalar red wifi para 3 plantas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Instalar red wifi para 3 plantas',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_561fb81c-79df-4817-9c07-15d21ad11356',
+  keyword: 'key_cbfe86a2-b433-4f3f-b997-78a1a96f9e0f',
+  answer: 'Bienvenido, soy el Asistente Virtual de RJ SOLUCIONES',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 300,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '017ac615bedbd01e54e7539dc93b3842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34669231631@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7CBA6D56AC8F5F8B23',
+    participant: undefined
+  },
+  messageTimestamp: 1716067598,
+  pushName: 'Computer Store Caceres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Instalar red wifi para 3 plantas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Instalar red wifi para 3 plantas',
+  from: '34669231631'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_561fb81c-79df-4817-9c07-15d21ad11356',
+  keyword: 'key_cbfe86a2-b433-4f3f-b997-78a1a96f9e0f',
+  answer: 'Bienvenido, soy el Asistente Virtual de RJ SOLUCIONES',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 300,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '017ac615bedbd01e54e7539dc93b3842'
+}
